@@ -1,5 +1,7 @@
 #include <stdio.h>
-int main() {
+//CHAPTER-1 VARIABLES,DATATYPES+INPUT/OUTPUT 
+int main() 
+{
     // Printing variables
     printf("Hello, World! \n");
     int age = 22;
