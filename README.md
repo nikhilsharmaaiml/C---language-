@@ -1,5 +1,8 @@
 #include <stdio.h>
 //CHAPTER-1 VARIABLES,DATATYPES+INPUT/OUTPUT 
+
+
+
 int main() 
 {
     // Printing variables
