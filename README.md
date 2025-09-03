@@ -3,7 +3,8 @@
 
 
 
-int main() 
+int main()
+ 
 {
     // Printing variables
     printf("Hello, World! \n");
